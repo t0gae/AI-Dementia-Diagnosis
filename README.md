@@ -44,12 +44,7 @@
 ---
 
 ## 🌍 Social Impact  
-### Implementation Roadmap
-| Year     | Phase                         | Target                     |  
-|---------|-------------------------------|--------------------------|  
-| 2025    | Akita Pilot                 | 5 clinics                 |  
-| 2026    | J-ADNI Integration           | Protocol standardization|  
-| 2027    | Nationwide Scaling               | 47 prefectures            |  
+ 
 
 **Expected Outcomes:**  
 - Cost reduction  
