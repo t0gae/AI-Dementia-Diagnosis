@@ -62,7 +62,7 @@
 ## 📦 Installation & Usage 
 ```bash
 # 1. Clone Repository
-git clone https://github.com/viblitrin/AI-Dementia-Diagnosis-MEXT
+git clone https://github.com/t0gae/AI-Dementia-Diagnosis-MEXT
 cd AI-Dementia-Diagnosis-MEXT
 
 # 2. Run Diagnosis
