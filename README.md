@@ -63,7 +63,7 @@
 ```bash
 # 1. Clone Repository
 git clone https://github.com/t0gae/AI-Dementia-Diagnosis-MEXT
-cd AI-Dementia-Diagnosis-MEXT
+cd AI-Dementia-Diagnosis
 
 # 2. Run Diagnosis
 python diagnose.py \
