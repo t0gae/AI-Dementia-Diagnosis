@@ -1,4 +1,4 @@
-# 🔬 AI-Driven Multimodal Diagnosis of Dementia: A MEXT-Funded Initiative  
+# 🔬 AI-Driven Multimodal Diagnosis of Dementia  
 
 
 ## 📜 Abstract  
