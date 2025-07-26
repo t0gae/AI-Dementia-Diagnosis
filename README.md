@@ -1,7 +1,7 @@
-# 🔬 AI-Driven Multimodal Diagnosis of Dementia  
+#  AI-Driven Multimodal Diagnosis of Dementia  
 
 
-## 📜 Abstract  
+##  Abstract  
 **Problem:** 60% of dementia cases in Japan are diagnosed at advanced stages ([Ministry of Health, 2023](https://www.mhlw.go.jp/)).  
 
 **Solution:** A multimodal AI system integrating:  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧪 Methodology  
+##  Methodology  
 ### Model Architecture  
 
 **Components:**  
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 Results  
+##  Results  
 ### Key Metrics  
 | Parameter         | Value    | 95% ДИ       |  
 |-------------------|----------|--------------|  
@@ -43,7 +43,7 @@
 
 ---
 
-## 🌍 Social Impact  
+##  Social Impact  
  
 
 **Expected Outcomes:**  
@@ -52,14 +52,14 @@
 
 ---
 
-## 🔮 Development Roadmap  
-1. **2025:** Integration of wearable device data (Fitbit, Apple Watch) 
-2. **2026:** Federated learning implementation for privacy preservation  
-3. **2027:** Clinical trials under **J-ADNI** protocol
+##  Development Roadmap  
+1.  Integration of wearable device data (Fitbit, Apple Watch) 
+2.  Federated learning implementation for privacy preservation  
+3.  Clinical trials under **J-ADNI** protocol
 
 ---
 
-## 📦 Installation & Usage 
+##  Installation & Usage 
 ```bash
 # 1. Clone Repository
 git clone https://github.com/t0gae/AI-Dementia-Diagnosis-MEXT
