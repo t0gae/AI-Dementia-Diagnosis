@@ -1,0 +1,30 @@
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  labels_file: "data/labels.csv"
+  train_split: 0.7
+  val_split: 0.15
+  test_split: 0.15
+
+preprocessing:
+  target_shape: [64, 64, 64]
+  normalize: true
+  augmentation: false
+
+model:
+  architecture: "resnet3d_lstm"
+  input_shape: [64, 64, 64, 1]
+  num_classes: 1  # Binary classification
+  learning_rate: 0.001
+  dropout_rate: 0.3
+
+training:
+  batch_size: 8
+  epochs: 50
+  early_stopping_patience: 10
+  checkpoint_dir: "models/checkpoints"
+  log_dir: "logs"
+
+inference:
+  model_path: "models/checkpoints/best_model.h5"
+  threshold: 0.5
