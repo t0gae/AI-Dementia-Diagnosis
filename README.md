@@ -81,4 +81,4 @@ python scripts/predict.py --input path/to/scan.nii
 ## Contact
 
 **Georgii Erokhin**  
-[LinkedIn](https://linkedin.com/in/georgii-erokhin) | [GitHub](https://github.com/t0gae) | [Email](mailto:georgii.erokhin@gmail.com)
+[GitHub](https://github.com/t0gae) | [Email](mailto:georgii.erokhin@gmail.com)
